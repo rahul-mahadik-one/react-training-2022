@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-training-2022/static/css/main.073c9b0a.css",
+    "main.js": "/react-training-2022/static/js/main.6f45362b.js",
+    "static/js/787.d81f3025.chunk.js": "/react-training-2022/static/js/787.d81f3025.chunk.js",
+    "index.html": "/react-training-2022/index.html",
+    "main.073c9b0a.css.map": "/react-training-2022/static/css/main.073c9b0a.css.map",
+    "main.6f45362b.js.map": "/react-training-2022/static/js/main.6f45362b.js.map",
+    "787.d81f3025.chunk.js.map": "/react-training-2022/static/js/787.d81f3025.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6f45362b.js"
+  ]
+}
